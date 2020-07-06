@@ -9,4 +9,5 @@ import tk.mybatis.mapper.common.Mapper;
  * @Feature:
  */
 public interface SeckillMapper extends Mapper<SeckillGoods> {
+
 }
