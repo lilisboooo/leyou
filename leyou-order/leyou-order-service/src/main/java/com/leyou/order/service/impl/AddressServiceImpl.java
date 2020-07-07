@@ -75,4 +75,11 @@ public class AddressServiceImpl implements AddressService {
             } );
         }
     }
+    public static void getsys(){
+        System.out.println("大傻子");
+    }
+
+    public static void main(String[] args) {
+        getsys();
+    }
 }
